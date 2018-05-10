@@ -1,4 +1,4 @@
-# cs50
+# CS50's Introduction to Computer Science - Problem Sets
 My solutions to the problem sets given in Harvard's CS50 course.
 
 Problem Set 1 | Problem Set 2 | Problem Set 3 | Problem Set 4 | Problem Set 5
